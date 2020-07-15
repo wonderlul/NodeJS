@@ -1,0 +1,1 @@
+{"albumId":2,"id":73,"title":"rerum exercitationem libero dolor","url":"https://via.placeholder.com/600/1224bd","thumbnailUrl":"https://via.placeholder.com/150/1224bd"}

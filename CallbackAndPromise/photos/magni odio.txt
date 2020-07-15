@@ -1,0 +1,1 @@
+{"albumId":2,"id":95,"title":"magni odio non","url":"https://via.placeholder.com/600/9cda61","thumbnailUrl":"https://via.placeholder.com/150/9cda61"}

@@ -1,0 +1,1 @@
+{"albumId":2,"id":99,"title":"magnam dolor sed enim vel optio consequuntur","url":"https://via.placeholder.com/600/b04f2e","thumbnailUrl":"https://via.placeholder.com/150/b04f2e"}

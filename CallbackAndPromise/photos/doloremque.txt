@@ -1,0 +1,1 @@
+{"albumId":2,"id":64,"title":"doloremque culpa quia","url":"https://via.placeholder.com/600/cd5a92","thumbnailUrl":"https://via.placeholder.com/150/cd5a92"}

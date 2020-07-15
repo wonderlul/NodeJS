@@ -1,0 +1,1 @@
+{"albumId":2,"id":94,"title":"et quisquam aspernatur","url":"https://via.placeholder.com/600/cc12f5","thumbnailUrl":"https://via.placeholder.com/150/cc12f5"}

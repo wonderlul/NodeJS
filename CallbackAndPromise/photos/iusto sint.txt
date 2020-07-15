@@ -1,0 +1,1 @@
+{"albumId":2,"id":72,"title":"iusto sint enim nesciunt facilis exercitationem","url":"https://via.placeholder.com/600/45935c","thumbnailUrl":"https://via.placeholder.com/150/45935c"}

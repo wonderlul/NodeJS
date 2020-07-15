@@ -1,0 +1,1 @@
+{"albumId":2,"id":80,"title":"et corrupti nihil cumque","url":"https://via.placeholder.com/600/a0c998","thumbnailUrl":"https://via.placeholder.com/150/a0c998"}

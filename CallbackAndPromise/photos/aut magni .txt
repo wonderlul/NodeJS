@@ -1,0 +1,1 @@
+{"albumId":2,"id":75,"title":"aut magni quibusdam cupiditate ea","url":"https://via.placeholder.com/600/a9ef52","thumbnailUrl":"https://via.placeholder.com/150/a9ef52"}

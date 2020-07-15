@@ -1,0 +1,32 @@
+{
+  "name": "00",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "chalk": "^3.0.0",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "columns": "^0.8.0",
+    "commander": "^4.0.1",
+    "concat": "^1.0.3",
+    "create-id": "^1.0.2",
+    "figlet": "^1.2.4",
+    "lodash": "^4.17.15",
+    "node-fetch": "^2.6.0",
+    "node-red-contrib-counter": "^0.1.5",
+    "table": "^5.4.6",
+    "util": "^0.12.1",
+    "yargs": "^15.0.2"
+  },
+  "devDependencies": {
+    "cli-clear": "^1.0.4"
+  }
+}

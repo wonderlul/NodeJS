@@ -1,0 +1,1 @@
+{"albumId":2,"id":66,"title":"provident rerum voluptatem illo asperiores qui maiores","url":"https://via.placeholder.com/600/ee0a7e","thumbnailUrl":"https://via.placeholder.com/150/ee0a7e"}

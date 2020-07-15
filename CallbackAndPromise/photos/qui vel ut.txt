@@ -1,0 +1,1 @@
+{"albumId":2,"id":86,"title":"qui vel ut odio consequuntur","url":"https://via.placeholder.com/600/fd5751","thumbnailUrl":"https://via.placeholder.com/150/fd5751"}
